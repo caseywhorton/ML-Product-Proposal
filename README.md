@@ -18,4 +18,5 @@ For the AI Product Manager Nanodegree program offered through Udacity, an AI or 
 ## Links:
 
 AI Product Manager Nanodegree program: https://www.udacity.com/course/ai-product-manager-nanodegree--nd088
+
 Udacity: https://www.udacity.com

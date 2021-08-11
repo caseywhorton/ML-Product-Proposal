@@ -1,3 +1,6 @@
+<img src = images/halacious-nhG5gix93es-unsplash.jpg width = 1000, height = 250>
+Photo by <a href="https://unsplash.com/@halacious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Halacious</a> on <a href="https://unsplash.com/s/photos/pills?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 # ai-product-manager
 
 ## Purpose
